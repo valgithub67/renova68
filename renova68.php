@@ -8,4 +8,5 @@
  */
 
 echo 'test';
+echo 'test';
 ?>
